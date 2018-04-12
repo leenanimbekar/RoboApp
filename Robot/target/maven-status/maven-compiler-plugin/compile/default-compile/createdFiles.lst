@@ -1,0 +1,12 @@
+com\roboapp\controller\AbstractController.class
+com\roboapp\client\IRobotOperations.class
+com\roboapp\util\ERROR_CODE.class
+com\roboapp\controller\ApiResponse.class
+com\roboapp\clientImpl\ScanBarCodeImpl.class
+com\roboapp\controller\Error.class
+com\roboapp\controller\RoboController.class
+com\roboapp\main\RobotApplication.class
+com\roboapp\model\Robot.class
+com\roboapp\clientImpl\RobotOpertaionsImpl.class
+com\roboapp\client\IScanBarCode.class
+com\roboapp\model\Product.class
